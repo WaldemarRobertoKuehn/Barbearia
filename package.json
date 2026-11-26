@@ -1,0 +1,8 @@
+{
+  "name": "norden-mvp",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Protótipo MVP local do NORDEN Salão Masculino Premium",
+  "scripts": { "start": "node server.js", "dev": "node server.js" },
+  "engines": { "node": ">=20" }
+}
